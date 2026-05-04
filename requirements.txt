@@ -1,0 +1,4 @@
+aiogram==3.4.1
+pdfplumber==0.10.3
+aiohttp==3.9.3
+aiohttp-socks==0.8.4
